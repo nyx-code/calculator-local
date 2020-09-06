@@ -6,6 +6,6 @@ Update 2
 
 Test
 
-Another ChangeStashLocal
+Another ChangeStash
 
 test2
