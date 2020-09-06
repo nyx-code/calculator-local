@@ -9,3 +9,5 @@ Test
 Another ChangeStash
 
 test2
+
+bug
